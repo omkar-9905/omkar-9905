@@ -10,7 +10,8 @@ A Master's student with professional experience in Cloud and CICD with the techn
 
 🧰 Toolbox
 
-<img src="https://kubernetes.io/images/favicon.png" alt="K8S" width="50" height="50"/> 
+<img src="https://kubernetes.io/images/favicon.png" alt="K8S" width="50" height="50"/> <img
+src="https://github.com/omkar-9905/leetcode/blob/main/python_logo.png" alt="python" width="50" height="50"/>
 
 
 <!--
