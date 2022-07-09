@@ -1,6 +1,6 @@
 ### Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1;"> 
 
-### my name in Omkar
+### I am Omkar..!!
 
 
 <!--
