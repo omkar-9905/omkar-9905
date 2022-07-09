@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1;"> 
+
+### my name in Omkar
+
 
 <!--
 **omkar-9905/omkar-9905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
