@@ -2,6 +2,7 @@
 
 ### I am Omkar..!!
 
+![](https://komarev.com/ghpvc/?username=omkar-9905&color=blue&style=flat-square)
 
 <!--
 **omkar-9905/omkar-9905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
