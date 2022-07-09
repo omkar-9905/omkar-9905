@@ -8,13 +8,15 @@ A Master's student with professional experience in Cloud and CICD with the techn
 
 ---
 
+🧰 Toolbox
+
 <img src="https://kubernetes.io/images/favicon.png" alt="K8S" width="50" height="50"/> 
 
 
 <!--
 **omkar-9905/omkar-9905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🧰 Toolbox
+
 
 
 <img src="https://kubernetes.io/images/favicon.png" alt="K8S" width="50" height="50"/>  <img 
