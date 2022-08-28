@@ -10,8 +10,19 @@ A Master's student with professional experience in Cloud and CICD with the techn
 
 🧰 Toolbox
 
-<img src="https://kubernetes.io/images/favicon.png" alt="K8S" width="50" height="50"/> <img
-src="https://github.com/omkar-9905/leetcode/blob/main/python_logo.png" alt="python" width="50" height="50"/>
+<img src="https://kubernetes.io/images/favicon.png" alt="K8S" width="50" height="50"/> <img 
+src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="K8S" width="50" height="50"/> <img
+src="https://github.com/omkar-9905/leetcode/blob/main/python_logo.png" alt="python" width="50" height="50"/> <img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" alt="Bitbucket" width="50" height="50"/> <img
+src="https://cdn.freebiesupply.com/logos/thumbs/2x/aws-logo-logo.png" alt="AWS" width="60" height="50"/> <img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="50" height="55"/> <img
+src="https://dustindortch.files.wordpress.com/2020/08/terraform-logo.png" alt="Terraform" width="50" height="50"/> <img
+src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt601c406b0b5af740/620577381692951393fdf8d6/elastic-logo-cluster.svg" alt="ELK" width="50" height="50"/> <img
+src="https://www.mytinydc.com/images/blog/blog-prometheus+grafana.png" alt="ELK" width="80" height="50"/> <img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="ELK" width="50" height="50"/>
+
+
+
 
 
 <!--
